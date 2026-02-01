@@ -1,4 +1,4 @@
-My [CV](https://atreyeem99.github.io).
+My [Website](https://atreyeem99.github.io).
 # Atreyee Majumdar — Personal Website
 
 This repository hosts my personal academic website.
