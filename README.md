@@ -1,10 +1,10 @@
-My [CV](https://atreyeem99.github.io/cv/).
+My [CV](https://atreyeem99.github.io).
 # Atreyee Majumdar — Personal Website
 
 This repository hosts my personal academic website.
 
 👉 **Visit the website:**  
-https://atreyeem99.github.io/cv/
+https://atreyeem99.github.io
 
 ---
 
